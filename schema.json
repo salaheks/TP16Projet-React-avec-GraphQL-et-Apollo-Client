@@ -1,0 +1,19 @@
+﻿{
+    "data":  {
+                 "__schema":  {
+                                  "queryType":  {
+                                                    "fields":  [
+                                                                   {
+                                                                       "name":  "allComptes"
+                                                                   },
+                                                                   {
+                                                                       "name":  "compteById"
+                                                                   },
+                                                                   {
+                                                                       "name":  "totalSolde"
+                                                                   }
+                                                               ]
+                                                }
+                              }
+             }
+}
