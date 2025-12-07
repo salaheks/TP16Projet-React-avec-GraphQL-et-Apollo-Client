@@ -527,15 +527,7 @@ enum TypeTransaction {
 
 ---
 
-## 👨‍💻 Auteur
 
-**Abderrahim Boussyf**
-
-
-- Projet : TP GraphQL avec React et Spring Boot
-- Date : 2024-2025
-
----
 
 ## 📄 Licence
 
